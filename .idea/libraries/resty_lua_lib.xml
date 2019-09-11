@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="resty-lua-lib" type="Lua">
+    <CLASSES>
+      <root url="file://$USER_HOME$/openresty_workspace/resty-lua-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
